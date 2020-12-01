@@ -42,7 +42,7 @@ fn part1(input: &String) -> Result<()> {
 }
 
 /**
- * Part 2
+ * Part 2: Same as Part 1, but instead identify triples rather than pairs
  */
 fn part2(input: &String) -> Result<()> {
     let target: u32 = 2020;
